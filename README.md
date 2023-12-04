@@ -1,5 +1,6 @@
 # SentimentAnalysis
 Performing sentiment analysis using textual data from Spotify dataset.
+Link: https://iqbalparekh97-sentimentanalysis-streamlit-app-bsoqiz.streamlit.app/
 
 # Abstract 
 This project focused on sentiment analysis of user reviews for Spotify, utilizing a Logistic Regression model. The primary objective was to classify reviews into three sentiment categories: positive, neutral, and negative. Initially, a dataset of Spotify reviews was preprocessed, involving lowercasing and punctuation removal to clean the textual data. The reviews were then labeled based on their ratings: 4 or 5 as positive, 3 as neutral, and 1 or 2 as negative.
